@@ -9,7 +9,7 @@ This repo contains materials of the Research Methodology - course CS2205.CH183 a
 ## Introduction
 
 - Course: Scientific Research Methods
-- Course Code: CS2205.CH181
+- Course Code: CS2205.CH183
 
 ## Lecturer
 
