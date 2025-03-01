@@ -1,5 +1,5 @@
 # CS2205.MAR2024
-This repo contains materials of the Research Methodology - course CS2205.CH18.1 at VNUHCM-UIT, taught by Prof. Dinh Duy Le.
+This repo contains materials of the Research Methodology - course CS2205.CH18.1 at VNUHCM-UIT, taught by Prof. Le Dinh Duy.
 <br> </br>
 
 <p align="center">
